@@ -23,7 +23,6 @@ int main()
   std::cout << key << ", " << value << '\n';
   
   return 0;
-  
  }
 
 Output:
