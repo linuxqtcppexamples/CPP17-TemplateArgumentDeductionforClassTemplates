@@ -31,3 +31,4 @@ Alex, 45
 John, 26
 
 Referebce Book - C++17  in  detail written Filipek
+Tested on http://coliru.stacked-crooked.com/
