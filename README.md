@@ -26,4 +26,9 @@ int main()
   
  }
 
+Output:
+John reassigned...
+Alex, 45
+John, 26
+
 Referebce Book - C++17  in  detail written Filipek
